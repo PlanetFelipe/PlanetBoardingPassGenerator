@@ -1,5 +1,9 @@
 # Planet Boarding Pass Generator
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-success?logo=github)](https://planetfelipe.github.io/PlanetBoardingPassGenerator/)
+
+**Live Demo:** [https://planetfelipe.github.io/PlanetBoardingPassGenerator/](https://planetfelipe.github.io/PlanetBoardingPassGenerator/)
+
 ## Overview
 
 A web application that retrieves live flight details from Planet's `Test.GetFlightDetails` API and generates boarding pass barcodes for testing purposes.
@@ -68,6 +72,15 @@ PlanetBoardingPassGenerator/
 └── assets/                     # Static assets (e.g. screenshots)
 ```
 
+## GitHub Pages Deployment
+
+This is a static web app with no build step, so it is served as-is by GitHub Pages.
+
+- **Live site:** [https://planetfelipe.github.io/PlanetBoardingPassGenerator/](https://planetfelipe.github.io/PlanetBoardingPassGenerator/)
+- **Source:** deployed from the `main` branch, repository root (`index.html`)
+- All CSS/JS references use relative paths, so the app works correctly under the `/PlanetBoardingPassGenerator/` sub-path used by GitHub Pages.
+- See [DEPLOYMENT.md](DEPLOYMENT.md) for step-by-step setup and troubleshooting instructions.
+
 ## Future Enhancements
 
 - Additional airport support
@@ -76,7 +89,7 @@ PlanetBoardingPassGenerator/
 
 ## Author
 
-Felipe Silveira
+Created by Felipe Silveira
 
 GitHub: [https://github.com/PlanetFelipe](https://github.com/PlanetFelipe)
 

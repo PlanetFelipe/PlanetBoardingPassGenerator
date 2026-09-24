@@ -425,6 +425,19 @@ body {
   color: var(--color-text-secondary);
 }
 
+.app-footer-credit {
+  margin-top: 4px;
+}
+
+.app-footer-credit a {
+  color: var(--planet-green);
+  font-weight: 600;
+}
+
+[data-theme="dark"] .app-footer-credit a {
+  color: var(--color-header-secondary);
+}
+
 .mono-text {
   font-family: 'Courier New', Courier, monospace;
   background-color: var(--color-input-bg);
