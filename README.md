@@ -2,7 +2,9 @@
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-success?logo=github)](https://planetfelipe.github.io/PlanetBoardingPassGenerator/)
 
-**Live Demo:** [https://planetfelipe.github.io/PlanetBoardingPassGenerator/](https://planetfelipe.github.io/PlanetBoardingPassGenerator/)
+🔗 **Live tool:** https://planetfelipe.github.io/PlanetBoardingPassGenerator/
+
+📦 **Repository:** https://github.com/PlanetFelipe/PlanetBoardingPassGenerator
 
 ## Overview
 
